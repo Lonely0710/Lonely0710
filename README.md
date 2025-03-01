@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shippori+Mincho&weight=600&pause=1000&color=2779F7&center=true&vCenter=true&width=435&lines=%E6%88%91%E6%AC%B2%E7%A9%BF%E8%8A%B1%E5%AF%BB%E8%B7%AF;%E7%9B%B4%E5%85%A5%E7%99%BD%E4%BA%91%E6%B7%B1%E5%A4%84)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Shippori+Mincho&weight=600&pause=1000&color=2779F7&center=true&width=435&lines=%E6%97%A0%E9%99%90%E5%A4%A7%E3%81%AA%E6%A2%A6%E3%81%AE%E3%81%82%E3%81%A8%E3%81%AE%E3%80%80;%E4%BD%95%E3%82%82%E3%81%AA%E3%81%84%E4%B8%96%E3%81%AE%E4%B8%AD%E3%81%98%E3%82%83" alt="Typing SVG" />
+  </a>
+</div>
 
 ## 🌟 关于我
 
