@@ -10,7 +10,7 @@
 - 🤖 探索 **深度学习** 与 **计算机视觉** 的奇妙世界
 - 📝 定期分享技术文章 [个人博客](blog.ylonely.cn)
 - 📫 联系我：lingsou43@gmail.com 
-
+<!--
 ## 🛠️ 技术栈
 
 ### 核心技能
@@ -37,9 +37,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lonely0710&layout=compact&theme=vue-dark&langs_count=6" />
 </div>
 
-### 贡献图谱
-![Contribution Graph](https://raw.githubusercontent.com/Lonely0710/Lonely0710/main/profile-3d-contrib/profile-night-rainbow.svg)
-
 ## 🎻 开源哲学
 ```javascript
 const codingPhilosophy = {
@@ -53,5 +50,5 @@ const codingPhilosophy = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lingsou43@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-
+-->
 
