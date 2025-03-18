@@ -7,8 +7,9 @@
 
 - 🚀 全栈开发者 | 开源爱好者
 - 🤖 探索 **深度学习** 与 **计算机视觉** 的奇妙世界
+- 📝 个人博客：blog.ylonely.cn
 - 📫 联系我：lingsou43@gmail.com
-- 🌍 mysite：[个人博客](blog.ylonely.cn)
+
 <!--
 ## 🛠️ 技术栈
 
