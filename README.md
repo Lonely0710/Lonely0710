@@ -1,16 +1,19 @@
 <div align="center">
+
+# Lonely Yang
+
+
+<p>seeking for AI agent</p>
+
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Shippori+Mincho&weight=600&pause=1000&color=2779F7&center=true&width=435&lines=%E6%97%A0%E9%99%90%E5%A4%A7%E3%81%AA%E6%A2%A6%E3%81%AE%E3%81%82%E3%81%A8%E3%81%AE%E3%80%80;%E4%BD%95%E3%82%82%E3%81%AA%E3%81%84%E4%B8%96%E3%81%AE%E4%B8%AD%E3%81%98%E3%82%83" alt="Typing SVG" />
   </a>
+
+<p>
+  <a href="mailto:lingsou43@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Lonely0710"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 </div>
-
-## 🌟 关于我
-
-<!--
-- 🚀 全栈开发者 | 开源爱好者
-- 🤖 探索 **深度学习** 与 **计算机视觉** 的奇妙世界
-- 📝 个人博客：[blog.ylonely.cn](https://blog.ylonely.cn)
--->
-- 📫 联系我：lingsou43@gmail.com
 
 <!--
 ## 🛠️ 技术栈
